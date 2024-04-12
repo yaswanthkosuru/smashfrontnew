@@ -1,5 +1,5 @@
 {
-  "name": "@smashorg/ai-bot",
+  "name": "@smashorgnew/capstonebot",
   "private": false,
   "version": "1.0.0-beta.18",
   "type": "module",
@@ -78,6 +78,6 @@
     ]
   },
   "publishConfig": {
-    "@khyatithakur:registry": "https://gitlab.com/api/v4/projects/51982500/packages/npm/"
+    "@yaswanthkosuru:registry": "https://gitlab.com/api/v4/projects/51982500/packages/npm/"
   }
 }
